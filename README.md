@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex, a mexican Electrical Engeneering student
 - 👀 I’m interested in Data Science, Web Development and microelectronics
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on open source projects and interesting data analysis
+- 💞️ I’m looking to collaborate on open source projects, interesting data analysis and IOT stuff 
 - 📫 How to reach me  
         - tw: @alexls00
 
