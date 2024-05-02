@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Alex, a mexican Electrical Engeneering student
 - 👀 I’m interested in Control Systems, Embedded Systems and Data Science
 - 🌱 I’m currently learning Robotics and Control
-- 📫 How to reach me  
+- 📫 How to reach me
+        - web: aleons.sytes.net 
         - tw: @alexls00
 
 <!---
