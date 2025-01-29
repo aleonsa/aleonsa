@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alex, a master's student specializing in Control Systems.
-- 👀 I’m interested in Control Systems, Embedded Systems and Data Science
-- 🌱 I’m currently learning Control & Robotics
+- 👀 I’m interested in Control Systems, Embedded Systems and AI
 - 📫 How to reach me
         - web: aleons.sytes.net 
         - tw: @alexls00
